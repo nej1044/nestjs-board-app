@@ -1,0 +1,8 @@
+db:
+  host: 'localhost'
+  username: 'progres'
+  password: 'progres'
+  synchronize: true
+
+jwt:
+  secret: 'secret'
